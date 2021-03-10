@@ -1,0 +1,112 @@
+#_1 {
+  fill: #ba4d4e;
+  content: 1;
+  font-max-size: 20px;
+  color: black; }
+
+#_2 {
+  fill: #1592e8;
+  content: 2;
+  font-max-size: 20px;
+  color: black; }
+
+#_3 {
+  fill: #14c187;
+  content: 3;
+  font-max-size: 20px;
+  color: black; }
+
+#_4 {
+  fill: #fc7800;
+  content: 4;
+  font-max-size: 20px;
+  color: black; }
+
+#_5 {
+  fill: #14c187;
+  content: 5;
+  font-max-size: 20px;
+  color: black; }
+
+#_6 {
+  fill: #1592e8;
+  content: 6;
+  font-max-size: 20px;
+  color: black; }
+
+#_7 {
+  fill: #ba4d4e;
+  content: 7;
+  font-max-size: 20px;
+  color: black; }
+
+#_8 {
+  fill: #1592e8;
+  content: 8;
+  font-max-size: 20px;
+  color: black; }
+
+#_9 {
+  fill: #14c187;
+  content: 9;
+  font-max-size: 20px;
+  color: black; }
+
+#_10 {
+  fill: #fc7800;
+  content: 10;
+  font-max-size: 20px;
+  color: black; }
+
+#_11 {
+  fill: #14c187;
+  content: 11;
+  font-max-size: 20px;
+  color: black; }
+
+#_12 {
+  fill: #1592e8;
+  content: 12;
+  font-max-size: 20px;
+  color: black; }
+
+.frame, .sticks {
+  fill: #fff; }
+
+.winIndicator {
+  fill: #fff; }
+
+.wheelMiddle {
+  fill: #fff; }
+
+body {
+  text-align: center;
+  margin: auto;
+  background-color: tomato; }
+
+.luckywheel {
+  margin: 40px auto;
+  width: 50%;
+  height: 50%; }
+
+.btn,
+.btn:visited {
+  font-weight: 800;
+  margin: 10px;
+  height: 40px;
+  width: 140px;
+  box-shadow: 4px 4px 20px 0 #cc4c45;
+  border-radius: 0;
+  border: 2px solid #000;
+  background-color: #fff;
+  color: #000; }
+
+.btn:hover,
+.btn:active {
+  color: #fff;
+  background-color: #000;
+  border: none;
+  text-decoration: none;
+  box-shadow: 4px 4px 5px 0 #cc4c45; }
+
+/*# sourceMappingURL=styles.css.map */
